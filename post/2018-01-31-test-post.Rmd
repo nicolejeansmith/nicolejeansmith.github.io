@@ -1,0 +1,10 @@
+---
+title: test post
+author: Nicole Smith
+date: '2018-01-31'
+slug: test-post
+categories: []
+tags: []
+---
+
+This is a test post.
